@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nyelv>
+    <Magyar>
+        <főmenu>
+            <Főoldal felirat="Főoldal"></Főoldal>
+            <Jegyzetek felirat="Jegyzetek"></Jegyzetek>
+            <Blog felirat="Blog"></Blog>
+            <Elérhetőség felirat="Elérhetőség"></Elérhetőség>
+        </főmenu>
+        <oldalmenu>
+            <Belépés felirat="Belépés"></Belépés>
+            <Regisztrálás felirat="Regisztrálás"></Regisztrálás>
+        </oldalmenu>
+        <belepooldal>
+            <cim felirat="Belépés"></cim>
+            <nev felirat="Név"></nev>
+            <jelszo felirat="Jelszó"></jelszo>
+        </belepooldal>
+        <regioldal>
+            <nev felirat="Név"></nev>
+            <jelszo felirat="Jelszó"></jelszo>
+            <jelszo2 felirat="Jelszó Ismét"></jelszo2>
+            <szul felirat="Szül_datum"></szul>
+            <gomb felirat="mégse"></gomb>
+        </regioldal>
+        <hiroldal>
+            <cim felirat="Hirek"></cim>
+        </hiroldal>
+    </Magyar>
+    <Angol>
+        <főmenu>
+            <Főoldal felirat="Home"></Főoldal>
+            <Jegyzetek felirat="Notes"></Jegyzetek>
+            <Blog felirat="Blog"></Blog>
+            <Elérhetőség felirat="Connect"></Elérhetőség>
+        </főmenu>
+        <oldalmenu>
+            <Belépés felirat="Login"></Belépés>
+            <Regisztrálás felirat="Regisztration"></Regisztrálás>
+        </oldalmenu>
+        <belepooldal>
+            <cim felirat="Login"></cim>
+            <nev felirat="Name"></nev>
+            <jelszo felirat="Password"></jelszo>
+        </belepooldal>
+        <regioldal>
+            <nev felirat="Name"></nev>
+            <jelszo felirat="Password"></jelszo>
+            <jelszo2 felirat="Password again"></jelszo2>
+            <szul felirat="Brown_date"></szul>
+            <gomb felirat="Cancel"></gomb>
+        </regioldal>
+        <hiroldal>
+            <cim felirat="News"></cim>
+        </hiroldal>
+    </Angol>
+</nyelv>

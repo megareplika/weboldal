@@ -1,0 +1,174 @@
+a:link{
+    color: aqua;
+}
+a:visited{
+    color: chartreuse;
+}
+a:active{
+    color: background;
+}
+a:hover{
+    color: coral;
+}
+input[type="button"], input[type="submit"],input[type="reset"], button
+{
+    border-radius: 5px;
+}
+input[type="button"]:hover, input[type="submit"]:hover,input[type="reset"]:hover, button:hover
+{
+    border-left: 1px white solid;
+    border-right: 1px white solid;
+    border-top: 1px white solid;
+    border-bottom: 5px white solid;
+}
+::placeholder, input[type="date"] {
+    color: darkgray;
+    /*opacity: 1;  Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: darkgray;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: darkgray;
+}
+body
+{
+    background: url('../kep/hatter.jpg');
+    background-position: center;
+    background-origin: content-box;
+    background-repeat: no-repeat;
+}
+main *
+{
+    font-family: Times New Romain, serif;
+    font-size: 18px;
+    background: blue;
+}
+header
+{
+    font-size: 35px;
+    font-style: oblique;
+    height: 120px;
+    background-image: url('../kep/cim_hatter.jpg');
+    background-position: 40% 60%;
+    background-repeat: no-repeat;
+}
+.jegyzet
+{
+    font-size: 12px;
+    text-align: center;
+}
+a, ul li
+{
+    text-decoration: none;
+    border: none;
+    list-style: none;
+}
+#oldalszallag *
+{
+    border: none;
+}
+#oldalszallag h2
+{
+    font-family: monospace;
+    color: darkseagreen;
+    border-bottom: black 1.5px dashed;
+    height: 40px;
+    font-size: 22px;
+}
+#kateg
+{
+    border: none;
+    border-top: 2px black dotted;
+}
+#kateg *
+{
+    border: none;
+}
+#kateg a img
+{
+    max-width: 150px;
+    max-height: 150px;
+}
+legend
+{
+    border: none;
+}
+#tartdiv, #tartdiv *, #conn, #conn *
+{
+    border: none;
+}
+#conn a div
+{
+    height: 205px;
+}
+#conn a div *
+{
+    margin: 0px;
+    padding: 0px;
+}
+#conn a div img
+{
+    margin-top: 3px;
+    max-width: 120px;
+    max-height: 120px;
+}
+header *
+{
+    text-decoration: none;
+    background: none;
+    border: none;
+    color: darkcyan;
+}
+
+header a h1
+{
+    font-size: 46px;
+}
+#time
+{
+    float: right;
+    padding-bottom: 5px;
+    font-size: 23px;
+    color: greenyellow;
+}
+#time, #date
+{
+    text-shadow: 0 0 1px beige;
+}
+#date
+{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+}
+.hirdatum
+{
+    font-size: 15px;
+}
+#loginPage div
+{
+    border: none;
+}
+.inp
+{
+    border: solid 1px black;
+}
+#loginPage div label
+{
+    border: none;
+}
+#jegyzetFo
+{
+    border: none;
+}
+#conn a div:hover
+{
+    border: solid black 1.5px;
+    border-bottom: solid black 2px;
+    border-right: solid black 2px;
+    border-radius: 5px;
+    box-shadow: 6px 6px 5px chartreuse;
+}

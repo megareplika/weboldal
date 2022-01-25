@@ -1,0 +1,1 @@
+<div id="footConn"><a href="https://www.facebook.com/barsi.peter.7" target="_blank"><div>Facebook</div></a><a href="https://www.linkedin.com/in/barsi-p%C3%A9ter-0749141a4/" target="_blank"><div>Linkid</div></a><a href="https://discord.gg/fhf3USb" target="_blank"><div>Discord</div></a><a href="https://www.twitch.tv/megareplika" target="_blank"><div>Twitch</div></a></div>

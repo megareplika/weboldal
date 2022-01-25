@@ -1,0 +1,62 @@
+@media screen and (max-width: 1300px)
+{
+    #oldalszallag
+    {
+        grid-template-areas:
+            'H H'
+            'D D'
+            'h h'
+            ;
+    }
+    #conn,#jegyzetFo
+    {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 1200px)
+{
+    #conn,#jegyzetFo
+    {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    main
+    {
+        margin: 2px;
+        max-width: 98%;
+    }
+    #dc
+    {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1000px)
+{
+    main
+    {
+        grid-template-areas:
+            'c c c c '
+            'm m m m'
+            't t t t'
+            'f f f f';
+    }
+    #oldalszallag
+    {
+        display: none;
+    }
+    nav
+    {
+        height: 450px;
+    }
+    #menupont, nav ul, #belep,#nyelvSW, #nyelvSW *, #belep *, #menupont *, #menupont a *
+    {
+        display: block;
+        height: 250px;
+    }
+    #conn,#jegyzetFo
+    {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+}

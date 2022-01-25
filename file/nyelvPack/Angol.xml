@@ -1,0 +1,27 @@
+<eng version="1.0">
+    <főmenu>
+        <Főoldal felirat="Home"></Főoldal>
+        <Jegyzetek felirat="Notes"></Jegyzetek>
+        <Blog felirat="Blog"></Blog>
+        <Elérhetőség felirat="Connect"></Elérhetőség>
+    </főmenu>
+    <oldalmenu>
+        <Belépés felirat="Login"></Belépés>
+        <Regisztrálás felirat="Regisztration"></Regisztrálás>
+    </oldalmenu>
+    <belepooldal>
+        <cim felirat="Login"></cim>
+        <nev felirat="Name"></nev>
+        <jelszo felirat="Password"></jelszo>
+    </belepooldal>
+    <regioldal>
+        <nev felirat="Name"></nev>
+        <jelszo felirat="Password"></jelszo>
+        <jelszo2 felirat="Password again"></jelszo2>
+        <szul felirat="Brown_date"></szul>
+        <gomb felirat="Cancel"></gomb>
+    </regioldal>
+    <hiroldal>
+        <cim felirat="News"></cim>
+    </hiroldal>
+</eng>

@@ -1,0 +1,27 @@
+<magyar version="1.0">
+    <főmenu>
+        <Főoldal felirat="Főoldal"></Főoldal>
+        <Jegyzetek felirat="Jegyzetek"></Jegyzetek>
+        <Blog felirat="Blog"></Blog>
+        <Elérhetőség felirat="Elérhetőség"></Elérhetőség>
+    </főmenu>
+    <oldalmenu>
+        <Belépés felirat="Belépés"></Belépés>
+        <Regisztrálás felirat="Regisztrálás"></Regisztrálás>
+    </oldalmenu>
+    <belepooldal>
+        <cim felirat="Belépés"></cim>
+        <nev felirat="Név"></nev>
+        <jelszo felirat="Jelszó"></jelszo>
+    </belepooldal>
+    <regioldal>
+        <nev felirat="Név"></nev>
+        <jelszo felirat="Jelszó"></jelszo>
+        <jelszo2 felirat="Jelszó Ismét"></jelszo2>
+        <szul felirat="Szül_datum"></szul>
+        <gomb felirat="mégse"></gomb>
+    </regioldal>
+    <hiroldal>
+        <cim felirat="Hirek"></cim>
+    </hiroldal>
+</magyar>

@@ -1,0 +1,1 @@
+<b>nincsenek hírek</b>
